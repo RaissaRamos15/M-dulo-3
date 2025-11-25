@@ -1,5 +1,7 @@
 **Projeto**: Lambda Módulo 3
 
+[Link Docker Registry](https://hub.docker.com/r/rairai150106/lambda-modulo3-app)
+
 - **Descrição**: Projeto Java (Spring Boot) que demonstra integração com Kafka e empacotamento para execução como AWS Lambda e como aplicação Dockerizada.
 
 **Visão Geral**:
