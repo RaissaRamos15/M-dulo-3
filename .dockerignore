@@ -48,6 +48,3 @@ logs/
 Thumbs.db
 
 # Maven wrapper (opcional - já está no container)
-.mvn/
-mvnw
-mvnw.cmd
