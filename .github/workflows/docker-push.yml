@@ -34,7 +34,7 @@ jobs:
         run: |
           chmod +x mvnw
           ./mvnw clean package -DskipTests
-          ./mvnw dependency:copy-dependencies
+          ./mvnw dependency:copy-dependencies -DoutputDirectory=target/lib
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
