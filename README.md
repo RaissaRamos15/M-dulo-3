@@ -112,10 +112,4 @@ docker build -f Dockerfile . --progress=plain
 ./mvnw test
 ```
 
-**Contato / Contribuição**:
-- **Autor**: Raissa Ramos
-- Abra issues ou pull requests para melhorias, correções ou perguntas.
-
-**Licença**:
-- Verifique o repositório para o arquivo `LICENSE` (se presente) ou defina uma licença antes de publicar.
 
