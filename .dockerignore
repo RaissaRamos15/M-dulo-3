@@ -1,0 +1,53 @@
+# Maven
+target/*.jar
+target/*.original
+target/maven-*
+target/test-classes/
+target/surefire-reports/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# IDE
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+*.iml
+*.swp
+*.swo
+
+# Documentation
+README*.md
+HELP.md
+*.txt
+docs/
+
+# Scripts
+scripts/
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+compose.yaml
+
+# LocalStack data
+localstack-data/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven wrapper (opcional - já está no container)
+.mvn/
+mvnw
+mvnw.cmd
